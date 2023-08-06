@@ -1,0 +1,4 @@
+1.Display the column names from the csv uploaded just like in AUTOML UST.
+2.Advanced logic is not working for Select boxes component and Select.
+3.Anupam - Shared by ligang.
+4.YAML config update.
