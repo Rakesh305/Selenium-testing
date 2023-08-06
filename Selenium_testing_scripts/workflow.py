@@ -1,0 +1,12 @@
+def workflow(url):
+    go_to(url)
+    print(url)
+    go_to(url)
+    time.sleep(3)
+    click("initial workflow test")
+    time.sleep(3)
+    click(Button("Execute"))
+    time.sleep(3)
+    click(Button("OK"))
+    time.sleep(3)
+    click(Button("Execute"))
